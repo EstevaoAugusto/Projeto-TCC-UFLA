@@ -1,0 +1,91 @@
+id_link,id_img,noticiario_origem,categoria,link_fonte_noticia,link_fonte_imagem_selecionada,alt_text_humano,contexto_prompt
+1,UOL_IMG_1,UOL,"Economia","https://economia.uol.com.br/noticias/redacao/2025/12/20/carta-a-lula-da-uniao-europeia-acordo-com-mercosul.htm","https://conteudo.imguol.com.br/c/noticias/59/2025/12/20/rep-o-presidente-lula-pt-fala-na-cupula-do-mercosul-em-foz-do-iguacu-pr-1766236444833_v2_750x421.png","Presidente Lula falando ao microfone na cúpula do Mercosul. Ao fundo, dois homens de terno e gravata sobre um painel azul.","XXXXXXXXXXX"
+2,UOL_IMG_2,UOL,Economia,"https://economia.uol.com.br/noticias/redacao/2025/12/20/mcdonalds-casquinha-sunday-sorvete-bebida-laquea.htm","https://conteudo.imguol.com.br/c/noticias/1b/2025/12/20/casquinha-do-mcdonalds-nao-e-sorvete-1766259610147_v2_900x506.png","Mão segura casquinha de baunilha do McDonald's em frente a uma unidade da rede de fast-food.","XXXXXXXXXXX"
+3,UOL_IMG_3,UOL,Cotidiano,"https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/02/06/argentina-rio-racismo-fevereiro-2026.htm","https://conteudo.imguol.com.br/c/noticias/9a/2026/02/05/05fev2026---ministerio-publico-do-rio-de-janeiro-denunciou-a-advogada-e-influenciadora-argentina-agostina-paez-29-sob-acusacao-de-injuria-racial-1770334981155_v2_450x600.png","Advogada argentina Agostina Páez, acusada de injúria racial, encara a câmera em foto com fundo branco.","XXXXXXXXXXX"
+4,UOL_IMG_4,UOL,Economia,"https://economia.uol.com.br/noticias/redacao/2026/02/05/mp-sidney-oliveira-denuncia.htm","https://conteudo.imguol.com.br/c/noticias/77/2025/08/13/o-dono-e-fundador-da-ultrafarma-sidney-oliveira-foi-preso-na-manha-desta-terca-feira-12-1755080676046_v2_900x506.jpg.webp","Unidade da rede farmacêutica Ultrafarma em funcionamento, cujo dono, Sidney Oliveira foi denunciado pela MP por suborno de fiscais.","XXXXXXXXXXX"
+5,UOL_IMG_5,UOL,Esporte,"https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/01/25/estevao-chelsea-crystal-palace.htm","https://conteudo.imguol.com.br/c/esporte/99/2026/01/25/estevao-comemora-gol-marcado-pelo-chelsea-contra-o-crystal-palace-no-campeonato-ingles-1769355930080_v2_450x450.jpg.webp","Jogador de futebol Estêvão sorri e comemora vitória do Chelsea contra o Crystal Palace no Campeonato Inglês, no Selhurst Park.","XXXXXXXXXXX"
+6,UOL_IMG_6,UOL,Economia,"https://economia.uol.com.br/noticias/redacao/2026/02/03/amazon-envia-cheques-a-brasileiros-por-acordo-nos-eua-entenda.htm","https://conteudo.imguol.com.br/c/noticias/fd/2025/12/10/caixas-da-amazon-no-centro-logistico-em-salvador-ba-1765387665820_v2_450x450.jpg.webp","Caixas de delivery da Amazon numa esteira de galpão localizada no centro logístico em Salvador(BA).","XXXXXXXXXXX"
+7,UOL_IMG_7,UOL,Política,"https://noticias.uol.com.br/internacional/ultimas-noticias/2026/01/28/lula-venezuela-trump-caos.htm","https://conteudo.imguol.com.br/c/noticias/d5/2026/01/12/especialistas-veem-risco-de-guerra-civil-na-venezuela-apos-a-captura-de-maduro-1768224423835_v2_900x506.jpg.webp","Grupo de tanques de guerra com militares em cima do automóvel passam nas Ruas de Caracas, na Venezuela. Bandeiras do páis aparecem no fundo.","XXXXXXXXXXX"
+8,UOL_IMG_8,UOL,Cotidiano,"https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/02/06/mpsc-policia-civil-caso-orelha.htm","https://conteudo.imguol.com.br/c/noticias/a4/2026/01/26/orelha-cao-comunitario-da-praia-brava-precisou-ser-eutanasiado-apos-ser-espancado-em-florianopolis-sc-1769461253667_v2_360x480.png.webp","Orelha, cão vira-lata comunitário de pelagem escura de Praia Brava, olha para a camera com boca aberta ao lado de sua casa.","XXXXXXXXXXX"
+9,UOL_IMG_9,UOL,,"","","",""
+10,UOL_IMG_10,UOL,,"","","",""
+11,UOL_IMG_11,UOL,
+12,UOL_IMG_12,UOL,
+13,UOL_IMG_13,UOL,
+14,UOL_IMG_14,UOL,
+15,UOL_IMG_15,UOL,
+16,UOL_IMG_16,UOL,
+17,UOL_IMG_17,UOL,
+18,UOL_IMG_18,UOL,
+19,UOL_IMG_19,UOL,
+20,UOL_IMG_20,UOL,
+21,UOL_IMG_21,UOL,
+22,UOL_IMG_22,UOL,
+23,UOL_IMG_23,UOL,
+24,UOL_IMG_24,UOL,
+25,UOL_IMG_25,UOL,
+26,UOL_IMG_26,UOL,
+27,UOL_IMG_27,UOL,
+28,UOL_IMG_28,UOL,
+29,UOL_IMG_29,UOL,
+30,UOL_IMG_30,UOL,
+31,ESTADÃO_IMG_1,ESTADÃO,"","","","",""
+32,ESTADÃO_IMG_2,ESTADÃO,"","","","",""
+33,ESTADÃO_IMG_3,ESTADÃO,"","","","",""
+34,ESTADÃO_IMG_4,ESTADÃO,"","","","",""
+35,ESTADÃO_IMG_5,ESTADÃO,"","","","",""
+36,ESTADÃO_IMG_6,ESTADÃO,"","","","",""
+37,ESTADÃO_IMG_7,ESTADÃO,"","","","",""
+38,ESTADÃO_IMG_8,ESTADÃO,
+39,ESTADÃO_IMG_9,ESTADÃO,
+40,ESTADÃO_IMG_10,ESTADÃO,
+41,ESTADÃO_IMG_11,ESTADÃO,
+42,ESTADÃO_IMG_12,ESTADÃO,
+43,ESTADÃO_IMG_13,ESTADÃO,
+44,ESTADÃO_IMG_14,ESTADÃO,
+45,ESTADÃO_IMG_15,ESTADÃO,
+46,ESTADÃO_IMG_16,ESTADÃO,
+47,ESTADÃO_IMG_17,ESTADÃO,
+48,ESTADÃO_IMG_18,ESTADÃO,
+49,ESTADÃO_IMG_19,ESTADÃO,
+50,ESTADÃO_IMG_20,ESTADÃO,
+51,ESTADÃO_IMG_21,ESTADÃO,
+52,ESTADÃO_IMG_22,ESTADÃO,
+53,ESTADÃO_IMG_23,ESTADÃO,
+54,ESTADÃO_IMG_24,ESTADÃO,
+55,ESTADÃO_IMG_25,ESTADÃO,
+56,ESTADÃO_IMG_26,ESTADÃO,
+57,ESTADÃO_IMG_27,ESTADÃO,
+58,ESTADÃO_IMG_28,ESTADÃO,
+59,ESTADÃO_IMG_29,ESTADÃO,
+60,ESTADÃO_IMG_30,ESTADÃO,
+61,G1_IMG_1,G1,"Cotidiano","https://g1.globo.com/sp/sao-paulo/noticia/2026/02/06/prefeitura-da-capital-registra-queda-de-arvores-desabamentos-e-transito-recorde-nesta-sexta-grande-sp-tem-enchente.ghtml","https://s2-g1.glbimg.com/In2SbdWBlKOIKVaNKft3Wape1_Q=/0x0:1600x1200/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/3/OleBbAQH2kGdSr8hF5ZA/whatsapp-image-2026-02-06-at-17.52.15.jpeg","Uma árvore de grande porte caiu em cima de um carro na Rua Dom Luiz, no Centro de São Bernardo do Campo, nesta sexta","XXXXXXXXXXX"
+62,G1_IMG_2,G1,"Cotidiano","https://g1.globo.com/pop-arte/musica/noticia/2026/02/06/dj-young-slade-filho-do-rapper-lil-jon-morre-aos-27-anos.ghtml","https://s2-g1.glbimg.com/5TtVyfVG4hU9GDmAWG363tRlP7s=/0x0:646x423/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/A/6lcSXYR8uAabKTcIY5OQ/dj-young-slade-lil-jon-1-.jpg","A direita, Lil Jon. A esquerda, seu filho, DJ Young Slade.","XXXXXXXXXXX"
+63,G1_IMG_3,G1,"","","","",""
+64,G1_IMG_4,G1,"","","","",""
+65,G1_IMG_5,G1,"","","","",""
+66,G1_IMG_6,G1,"","","","",""
+67,G1_IMG_7,G1,"","","","",""
+68,G1_IMG_8,G1,"","","","",""
+69,G1_IMG_9,G1,"","","","",""
+70,G1_IMG_10,G1,
+71,G1_IMG_11,G1,
+72,G1_IMG_12,G1,
+73,G1_IMG_13,G1,
+74,G1_IMG_14,G1,
+75,G1_IMG_15,G1,
+76,G1_IMG_16,G1,
+77,G1_IMG_17,G1,
+78,G1_IMG_18,G1,
+79,G1_IMG_19,G1,
+80,G1_IMG_20,G1,
+81,G1_IMG_21,G1,
+82,G1_IMG_22,G1,
+83,G1_IMG_23,G1,
+84,G1_IMG_24,G1,
+85,G1_IMG_25,G1,
+86,G1_IMG_26,G1,
+87,G1_IMG_27,G1,
+88,G1_IMG_28,G1,
+89,G1_IMG_29,G1,
+90,G1_IMG_30,G1,
